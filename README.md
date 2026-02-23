@@ -1,4 +1,4 @@
-# ❤️ ECG Temporal Data Classification Exercise
+# ❤️ ECG Temporal Data Classification 
 
 ## 📌 Overview
 
